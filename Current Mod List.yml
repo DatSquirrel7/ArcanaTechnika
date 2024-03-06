@@ -1,5 +1,6 @@
 ﻿**Current Modlist**
 Additional Lanterns by SuperMartijn642
+Advanced Peripherals by srrendi
 Aether: Lost Content Addon by ModdingLegacy
 AI Improvements by QueenOfMissles
 Alex's Delight by NCP_Bails
@@ -15,9 +16,11 @@ Aquaculture 2 by Shadow
 Architectury API by shedaniel
 Ars Additions by Jarva
 Ars Artifice by Jarva
+Ars Creo by baileyholl2
 Ars Elemental by Alexth99
 Ars Instrumentum by Sarenor
 Ars Nouveau by baileyholl2
+Ars Ocultas by mystchonky
 Artifacts by ochotonida
 Athena by CodexAdrian
 ATO - All the Ores by ATMTeam
@@ -26,22 +29,28 @@ Bad Wither No Cookie - Reloaded by Kreezxil
 Balm (Forge Edition) by BlayTheNinth
 Baubley Heart Canisters by traverse_joe
 Better Advancements by way2muchnoise
+Better Compatability Checker by Gaz_
 Bigger Reactors by RogueLogix
 Biomancy by Elenterius
 Biomes O' Plenty by Forstride
 BlockUI by Raycoms
 Blood Magic by WayofTime
 Bookshelf by DarkhaxDev
+Born in Chaos by mongoose_artist
 Bosses of Mass Destruction by CerbonXD
 Botania by Vazkii
 Botany Pots by DarkhaxDev
 Botany Trees by DarkhaxDev
+Bountiful by Ejktaflex
 Cable Tiers by Ultramegaaa
 Caelus API by TheIllusiveC4
+CC: Tweaked by SquidDev
+CC:C Bridge by Sammy_echt
 CERBON's API by CerbonXD
 ChemLib by Dark_Arcana
 Chipped by terrariumearth
 Citadel by sbom_xela
+Clean Swing Through Grass by Raycoms
 Cloth Config API by shedaniel
 Clumps by Jaredlll08
 Colorful Hearts by Terrails
@@ -53,15 +62,40 @@ Corail Tombstone by Corail_31
 Cosmetic Armor Reworked by LainMI
 Crafting Tweaks by BlayTheNinth
 CraftTweaker by Jaredlll08
+Create by simibubi
+Create: Misc & Things by To0pa
+Create: Teleporters! by Chilllliii
+Create Big Cannons by rbasamoyai
+Create Central Kitchen by DragonsPlus
+Create Compressed by nocubeyt
+Create Confectionery by Furti_Two
+Create Craft & Additions by MRHminer
+Create Deco by talrey
+Create Mechanical Spawner by oierbravo_mc
+Create Ore Excavation by tom54541
+Create Recycle Everything by nocubeyt
+Create Slice & Dice by possible_triangle
+Create: Bells & Whistles by sudolev
+Create: Connected by Lysine
+Create: Design n' Decor by MilkyFur
+Create: Drinks by Sietse
+Create: Ender Transmission by Forsteri123
+Create: Interiors by sudolev
+Create: More Automation by Snakeypro
+Create: More Drill Heads by Forsteri123
+Create: Wizardry by thetruezeraora
 Cristel Lib by Cristelknight
 Croptopia by thethonk
 Cucumber Library by BlakeBr0
 Curios API by TheIllusiveC4
+DataPack Anvil by Sirttas
 Deeper and Darker by KyaniteMods
+DeepResonance by McJty
 Default Options by BlayTheNinth
 Domum Ornamentum by OrionOnline
 Dungeon Crawl by xiroc_
 EdivadLib by 3divad99
+Elemental Craft by Sirttas
 Embeddium by embeddedt
 Embeddium Extra by dimadencep
 Embeddium/Rubidium Dynamic Lights by Anthxny
@@ -87,10 +121,12 @@ FastFurance by Shadows_of_Fire
 FastWorkbench by Shadows_of_Fire
 FerriteCore by malte0811
 FTB Chunks by FTB
+FTB Essentials by FTB
 FTB Library by FTB
 FTB Quests by FTB
 FTB Teams by FTB
 FTB Ultimine by FTB
+FTB XMod Compat by FTB, ErrorMikey
 Fusion (Connected Textures) by SuperMartijn642
 Gateways to Eternity by Shadows_of_Fire
 GeckoLib by Gecko
@@ -101,12 +137,13 @@ Iron Jetpacks by BlakeBr0
 Iron's Spells 'n Spellbooks by Iron431
 Iron's Spell's Recipe Additions by pvz_fan
 Item Filters by LatvianModder
+Item Production Lib by Daripher
 Jade by Snownee
 JourneyMap by techbrew
-Just Enough Items by mezz
 Just Enough Mekanism Multiblocks by gisellevonbingen
-Just Enough Resources by way2muchnoise
+Kambrik by Ejektaflex
 Konkrete by Keksuccino
+Kotlin for Forge by thedarkcolour
 KubeJS by LatvianModder
 L_Ender's Cataclysm by mcl_ender
 Lootr by Noobanidus
@@ -136,14 +173,17 @@ Melody by Keksuccino
 MineColonies by Raycoms
 Mob Grinding Utils by vadis365
 ModernFix by embeddedt
+Modonomicon by kli_kli
 Moonlight Lib by MehVahdJukaar
 Mouse Tweaks by YaLTeR
 Multi-Piston by Raycoms
 Nature's Compass by Chaosyr
 Nether's Delight lumpazl
+NetherPortalFix by BlayTheNinth
 Ocean's Delight by scouter567
+Occultism by kli_kli
 OpenBlocks Elevator by vsgarcia
-PackManu by Shadows_of_Fire
+PackMenu by Shadows_of_Fire
 Passive Skill Tree by Daripher
 Patchouli by Vazkii
 Phosphophyllite by RogueLogix
@@ -160,9 +200,11 @@ Quartz by RogueLogix
 Realm RPG: Dragon Wyrms by nocubeyt
 Realm RPG: Fallen Adventurers by nocubeyt
 Rechiseled by SuperMartijn642
+Rechiseled: Create by SuperMartijn642
 Refined Polymorphism by ninety
 Refined Storage by raoulvdberge
 Refined Storage Addons by raoulvdberge
+REI Plugin Compatibilities (REIPC) by shedaniel
 Reliquary Reincarnations by P3pp3rF1y
 Resourceful Lib by ThatGravyBoat
 RFTools Base by McJty
@@ -172,8 +214,12 @@ RFTools Power by McJty
 RFTools Storage by McJty
 RFTools Utility by McJty
 Rhino by LatvianModder
+Roughly Enough Items by shedaniel
+Roughly Enough Professions by Mrbysco
+Roughly Enough Resources by theorbagain
 RSInfinityBooster by hexeptiondev
 Runelic by DarkhaxDev
+Searchables by Jaredlll08
 ShetiPhianCore by ShetiPhian
 Silent Gear by SilentChaos512
 Silent Lib by SilentChaos512
@@ -181,6 +227,7 @@ Silent's Gems by SilentChaos512
 SilentGear Compat by dragoni_7
 Simple Magnets by SuperMartijn642
 Small Ships by talhanation
+SmartBrainLib by Scimiguy
 Sophisticated Backpacks by P3pp3rF1y
 Sophisticated Core by P3pp3rF1y
 Sophisticated Storage by P3pp3rF1y
@@ -199,6 +246,7 @@ TexTrue's Embeddium Options by TexTrue
 The Abyss II - The Other Side by y4z0n
 The Aether by TheAetherTeam
 The Twilight Forest by Benimatic
+Theurgy by kli_kli
 Toast Control by Shadows_of_Fire
 Torchmaster by xalcon
 Towns and Towers by Biban_Auriu
